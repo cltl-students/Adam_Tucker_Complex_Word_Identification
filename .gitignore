@@ -1,0 +1,11 @@
+# Ignore build artifacts
+build/
+
+# Ignore log files
+*.log
+
+# Ignore credentials file
+secret_credentials.json
+
+# Ignore all files in a directory
+temp_dir/*
