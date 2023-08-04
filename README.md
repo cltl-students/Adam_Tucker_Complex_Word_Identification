@@ -13,12 +13,13 @@ Available here (https://www.overleaf.com/read/wmvwtmpbkvqs)
 # Project Structure
 
 ```
-thesis-project
-└───data
+CWI_Masters
+└───baseline_model
 │       │   sample_data.csv 
-└───results
-│       │   sample_results.png 
-└───src
+└───CAMB
+│       │   sample_results.png
+        │
+└───CAMB_A
 │   └───utils
 │       │   plotting.py
 │   │   main.py
