@@ -14,8 +14,16 @@ Available here (https://www.overleaf.com/read/wmvwtmpbkvqs)
 
 ```
 CWI_Masters
-└───baseline_model
-│       │   sample_data.csv 
+└───Baseline_model
+│       │   Baseline_feature_extraction.ipynb
+        │   feature_extraction.ipynb
+        │   helper_funcs.ipynb
+        │   lm
+        │   lmodel
+        │   prob_run.ipynb
+        │   prob_train.ipynb
+        │   run_model.ipynb
+        │   train_model.ipynb
 └───CAMB
 │       │   sample_results.png
         │
