@@ -15,7 +15,7 @@ Available here (https://www.overleaf.com/read/wmvwtmpbkvqs)
 ```
 CWI_Masters
 └───Baseline_model
-│       │   Baseline_feature_extraction.ipynb
+        │   Baseline_feature_extraction.ipynb
         │   feature_extraction.ipynb
         │   helper_funcs.ipynb
         │   lm
