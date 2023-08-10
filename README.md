@@ -7,6 +7,8 @@ Vrije Universiteit Amsterdam Computational Lexicology and Terminology Lab Depart
 The dataset used to train these models was collected by Yimam et al., (2018) and is available [here](https://www.inf.uni-hamburg.de/en/inst/ab/lt/resources/data/complex-word-identification-dataset.html).
 
 # Thesis Report
+This repository consists of a series of notebooks investigating complex words identifcation in English. 
+
 
 Available here (https://www.overleaf.com/read/wmvwtmpbkvqs)
 
