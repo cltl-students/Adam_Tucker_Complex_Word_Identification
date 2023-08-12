@@ -48,6 +48,6 @@ CWI_Masters
 │   .gitignore
 │   LICENSE
 │   README.md
-│   requirements.tx
+│   requirements.txt
 
 ```
