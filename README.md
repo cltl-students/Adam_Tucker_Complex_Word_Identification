@@ -27,12 +27,24 @@ CWI_Masters
         │   run_model.ipynb
         │   train_model.ipynb
 └───CAMB
-│       │   sample_results.png
-        │
+        │   binary-features
+        │   lmodel
+        │   Algorithm Application.ipynb
+        │   MWE_feats.ipynb
+        │   Populating Word Features-MWE.ipynb
+        │   Populatinng Word Features.ipynb
+        │   prob_run.ipynb
+        │   prob_train_CAMB.ipynb
+
 └───CAMB_A
-│   └───utils
-│       │   plotting.py
-│   │   main.py
+        │   Corpus
+        |   RoBERTa_Feat_Flat.ipynb
+        |   Algo_Aplic_and_Eval.ipynb
+        |   Learner_Feat_extract.ipynb
+        |   RoBERTa_Feat_extract.ipynb
+└───Final_system
+└───Models
+└───pickled-dataframes
 │   .gitignore
 │   LICENSE
 │   README.md
