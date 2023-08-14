@@ -12,41 +12,4 @@ This repository consists of a series of notebooks investigating feature-based ap
 
 Available here (https://www.overleaf.com/read/wmvwtmpbkvqs)
 
-# Project Structure
 
-```
-CWI_Masters
-└───Baseline_model
-        │   feature_extraction.ipynb
-        │   lm
-        │   lmodel
-        │   prob_run.ipynb
-        │   prob_train.ipynb
-        │   run_model.ipynb
-        │   train_model.ipynb
-└───CAMB
-        │   binary-features
-        │   lmodel
-        │   Algorithm Application.ipynb
-        │   MWE_feats.ipynb
-        │   Populating Word Features-MWE.ipynb
-        │   Populatinng Word Features.ipynb
-        │   prob_run.ipynb
-        │   prob_train_CAMB.ipynb
-
-└───CAMB_A
-        │   Corpus
-        |   Extracted_feats_pkl
-        |   RoBERTa_Feat_Flat.ipynb
-        |   Algo_Aplic_and_Eval.ipynb
-        |   Learner_Feat_extract.ipynb
-        |   RoBERTa_Feat_extract.ipynb
-└───Final_system
-└───Models
-└───pickled-dataframes
-│   .gitignore
-│   LICENSE
-│   README.md
-│   requirements.txt
-
-```
